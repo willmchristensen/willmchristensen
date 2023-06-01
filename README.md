@@ -13,7 +13,7 @@
 </h1>
 <img src="https://komarev.com/ghpvc/?username=willmchristensen&style=flat-square&color=blue" alt=""/>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media1.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=ecf05e4743jxl4famhcgkk3k5ykawl486yv6nb0nky7molx4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
 - 🔭 I’m currently working on App Academy's full-time online bootcamp. 
 - 💬 Ask me about rock climbing.
