@@ -11,8 +11,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-https://komarev.com/ghpvc/?username=willmchristensen
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=willmchristensen&style=flat-square&color=blue" alt=""/>
 
 - 🔭 I’m currently working on App Academy's full-time online bootcamp. 
 - 💬 Ask me about rock climbing.
