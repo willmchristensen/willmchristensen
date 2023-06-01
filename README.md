@@ -22,5 +22,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 👨‍🎓 I’m currently working on App Academy's full-time online bootcamp. 
 - 💬 Ask me about rock climbing.
-- 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/will-christensen-85531317a/))
