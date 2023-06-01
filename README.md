@@ -20,4 +20,4 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from America.
 
 - 👨‍🎓 I’m currently working on App Academy's full-time online bootcamp. 
-- 💬 Ask me about rock climbing, discography, or video games! 
+- 💬 Ask me about rock climbing 🧗, discography 🎵, or video games 🎮! 
