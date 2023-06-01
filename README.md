@@ -4,7 +4,7 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/will-christensen-85531317a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"  height="100"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"  height="50"/>
   </a>
 </div>
 <h1>
