@@ -23,10 +23,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 💬 Ask me about rock climbing 🧗, discography 🎵, or video games 🎮! 
 
 ### Here are some links to my projects:
--[ShareBnb](https://sharebnb-wpig.onrender.com)
--[Query](https://query-bhy5.onrender.com)
--[Mu](https://mu-zfwi.onrender.com)
-
+[ShareBnb](https://sharebnb-wpig.onrender.com)
+___
+[Mu](https://mu-zfwi.onrender.com)
+___
+[Query](https://query-bhy5.onrender.com)
 
 - ### :hammer_and_wrench: Languages and Tools :
 <div>
