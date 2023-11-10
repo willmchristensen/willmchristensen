@@ -22,7 +22,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - I am currently located in Fresno, California and can be reached via the linked-in button above or email: willmchristensen@gmail.com 
 - 💬 Ask me about rock climbing 🧗, discography 🎵, or video games 🎮! 
 
-- here are some links to my projects: 
+### Here are some links to my projects:
+[ShareBnb](https://sharebnb-wpig.onrender.com)
+[Query](https://query-bhy5.onrender.com)
+[Mu](https://mu-zfwi.onrender.com)
+
 
 - ### :hammer_and_wrench: Languages and Tools :
 <div>
